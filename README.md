@@ -1,7 +1,7 @@
-live website link : https://follow-our-direction.web.app
+
 
 # Website Name Learning Pragramming
- ## Webwite live and netlify link : (https://learn-news-server.vercel.app/) 
+ live website link : https://follow-our-direction.web.app
 
  #  Website description : 
   ## first create react app instal and react router 
