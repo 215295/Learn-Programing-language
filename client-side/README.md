@@ -3,12 +3,15 @@
  ## Webwite live and netlify link : (https://learn-news-server.vercel.app/) 
 
  #  Website description : 
-  ## first create react app instal and react router 
-  ## firebase new create new projects
-  ## framwork use react-boostrap
-  ## desgin hots toast and icon use heroicon
-  ## server site use vercel 
-  ##  feacture : Actually this site is  Learning coding Language related .
+   * First install react app and create react-router
+   * Firebase creates new projects
+   * The framework uses react-bootstrap
+   * Use design hot toast and icon hero icon
+   * The server site uses vercel
+   * Features: Actually this site is about programming        languages.
+
+ 
+
 
 
 # Getting Started with Create React App

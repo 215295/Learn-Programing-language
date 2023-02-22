@@ -23,7 +23,7 @@ export const router = createBrowserRouter([
       {path:'/home', element:<Home></Home>},
       {path:'/courses', element:<Courses></Courses>},
       {path:'/faq', element:<FAQ></FAQ>},
-      {path:'/blog', element:<Blog></Blog>},
+      {path:'/blog', element:<Blog></Blog>},      
       {path:'/register', element:<Register></Register>},
       {path:"/login", element:<Login></Login>},
 
